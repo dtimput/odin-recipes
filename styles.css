@@ -1,0 +1,24 @@
+
+.doc.tbc{
+    background-color: olivedrab;
+}
+
+.doc.water{
+    background-color: aqua;
+}
+
+.doc.pbj{
+    background-color: orange;
+}
+.title{
+    text-align: center;
+}
+
+.doc{
+    background-color: teal;
+}
+
+.recipes{
+    font-weight: bold;
+    font-size: 28px;
+}
